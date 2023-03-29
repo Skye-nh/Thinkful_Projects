@@ -2,7 +2,7 @@
 Capstones projects completed in Thinkful's Data Analytics bootcamp.
 
 Capstone 1:
-End-to-end analysis project that determined what factors increase profit for Lariat.
+Analysis project using historical data to determined what factors increase profit for Lariat.
 
   File Contains:
   -original data sets
@@ -14,7 +14,7 @@ End-to-end analysis project that determined what factors increase profit for Lar
   visualizations, protected sheets/cells
 
 Capstone 2:
-End-to-end analysis project that determined driving factors in home prices to drive property investment decisions.
+analysis project that determined driving factors in home prices to drive property investment decisions.
 
   File Contains:
   -original data set
